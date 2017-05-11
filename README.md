@@ -3,3 +3,5 @@
 ![iron_code.png](iron_code.png)
 
 ![cargo_run.png](cargo_run.png)
+
+[RustとAtom開発環境インストール(Linux)](http://tsrtesttest.appspot.com/wiki/Rust)
