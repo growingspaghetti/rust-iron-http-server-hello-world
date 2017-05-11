@@ -5,3 +5,9 @@
 ![cargo_run.png](cargo_run.png)
 
 [RustとAtom開発環境インストール(Linux)](http://tsrtesttest.appspot.com/wiki/Rust)
+
+```
+cargo build --release
+```
+[Cargoの使い方](http://keens.github.io/blog/2015/11/29/cargonotsukaikata/)
+![cargo_build_release.png](cargo_build_release.png)
