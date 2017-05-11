@@ -1,0 +1,9 @@
+[package]
+name = "hello_iron"
+version = "0.1.0"
+authors = ["Ryoji Kodakari <ryoji.kodakari@gmail.com>"]
+
+[dependencies]
+
+[dependencies.iron]
+version = "*"
